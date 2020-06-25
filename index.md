@@ -4,3 +4,5 @@ Jeffrey Lebowski, auch "The Dude" genannt, lebt in Hollywood in Los Angeles. Er 
 * Lazy. Probably the laziest man in Los Angeles
 * Good Bowler
 * Really likes his rug
+As the Dude always says:
+> The rug really tied the room together.
