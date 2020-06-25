@@ -6,3 +6,4 @@ Jeffrey Lebowski, auch "The Dude" genannt, lebt in Hollywood in Los Angeles. Er 
 * Really likes his rug
 As the Dude always says:
 > The rug really tied the room together.
+<img src="https://de.wikipedia.org/wiki/The_Big_Lebowski#/media/Datei:White-Russian-01.jpg"/>
